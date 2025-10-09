@@ -23,7 +23,7 @@ import {
   ChevronUp,
 } from "lucide-react"
 
-const API_KEY = "AIzaSyDicwrWgGI6An8fVs8WmmUhMS0Wz2kNjiY"
+const API_KEY = "AIzaSyB9oeBjNmubTbF8SRN590ShQZtGzl5hgCY"
 const API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
 
 // Sample suggested questions
